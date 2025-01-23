@@ -1,0 +1,8 @@
+.div2b{
+    border: 1px inset red;
+}
+.div3{
+    border: 1px solid red;
+    border-top-width: thin;
+    border-bottom-width: thin;
+}

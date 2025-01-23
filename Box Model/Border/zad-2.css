@@ -1,0 +1,10 @@
+.p{
+    border:1px solid red;
+    margin-left: 80px;
+}
+.p1{
+    margin: inherit;
+}
+.p2{
+    margin: inherit;
+}
